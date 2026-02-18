@@ -1,0 +1,10 @@
+/Users/danieljandeleon/Downloads/yizyiz/src/main/java/com/legit/yizyiz/YizyizApplication.java
+/Users/danieljandeleon/Downloads/yizyiz/src/main/java/com/legit/yizyiz/controller/TaskController.java
+/Users/danieljandeleon/Downloads/yizyiz/src/main/java/com/legit/yizyiz/entity/Task.java
+/Users/danieljandeleon/Downloads/yizyiz/src/main/java/com/legit/yizyiz/model/Task.java
+/Users/danieljandeleon/Downloads/yizyiz/src/main/java/com/legit/yizyiz/model/TaskRequest.java
+/Users/danieljandeleon/Downloads/yizyiz/src/main/java/com/legit/yizyiz/repository/TaskRepository.java
+/Users/danieljandeleon/Downloads/yizyiz/src/main/java/com/legit/yizyiz/service/TaskService.java
+/Users/danieljandeleon/Downloads/yizyiz/target/generated-sources/openapi/src/main/java/com/legit/yizyiz/api/ApiUtil.java
+/Users/danieljandeleon/Downloads/yizyiz/target/generated-sources/openapi/src/main/java/com/legit/yizyiz/api/TasksApi.java
+/Users/danieljandeleon/Downloads/yizyiz/target/generated-sources/openapi/src/main/java/com/legit/yizyiz/model/ErrorResponse.java

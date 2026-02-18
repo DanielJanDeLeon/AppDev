@@ -1,0 +1,10 @@
+com/legit/yizyiz/repository/TaskRepository.class
+com/legit/yizyiz/api/TasksApi.class
+com/legit/yizyiz/entity/Task.class
+com/legit/yizyiz/api/ApiUtil.class
+com/legit/yizyiz/model/ErrorResponse.class
+com/legit/yizyiz/controller/TaskController.class
+com/legit/yizyiz/model/Task.class
+com/legit/yizyiz/YizyizApplication.class
+com/legit/yizyiz/model/TaskRequest.class
+com/legit/yizyiz/service/TaskService.class
